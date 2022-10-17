@@ -4,7 +4,7 @@ Biblioteca necessária:
 
 Openxl
 
-Para instalar, digite no terminal: pip install Openxl
+Para instalar, digite no terminal: pip install openxl
 
 O código no arquivo main.py está com comentários mostrando o que cada comando faz. 
 
